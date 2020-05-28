@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="specifically descrpitive content about your page here">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>404 - NOT FOUND</title>
+    <meta name="description" content="404 - NOT FOUND">
+    <meta property="og:image" content="https://quandleschevres.ca/goat.jpg">
+    <meta name="theme-color" content="#313131">
+    <link href="https://fonts.googleapis.com/css2?family=Inter&family=Oswald:wght@700&display=swap" rel="stylesheet">
+    <link href="styles.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="splash">
+        <div class="veil"></div>
+        <h1>404</h1>
+    </div>
+</body>
+</html>
